@@ -1,0 +1,121 @@
+txn_id,date,vendor,category,amount,type,recorded_by
+LGR-1000,2026-06-01,Microsoft Azure,Cloud & Software,3672.91,Debit,System-Auto
+LGR-1001,2026-06-02,Zomato Corporate,Meals & Entertainment,5872.88,Debit,Aditya
+LGR-1002,2026-06-02,LinkedIn Talent,HR & Recruiting,18071.96,Debit,Priya
+LGR-1003,2026-06-04,Uber for Business,Travel,21847.98,Debit,Aditya
+LGR-1004,2026-06-05,WeWork India,Rent & Facilities,10384.98,Debit,Priya
+LGR-1005,2026-06-07,Swiggy Genie,Logistics,7395.95,Debit,System-Auto
+LGR-1006,2026-06-07,LinkedIn Talent,HR & Recruiting,3063.59,Debit,System-Auto
+LGR-1007,2026-06-08,Ola Fleet,Travel,24753.24,Debit,Aditya
+LGR-1008,2026-06-09,Microsoft Azure,Cloud & Software,25914.75,Debit,System-Auto
+LGR-1009,2026-06-09,IndiGo Airlines,Travel,5776.96,Debit,Priya
+LGR-1010,2026-06-09,Tata Power,Utilities,5053.42,Debit,Aditya
+LGR-1011,2026-06-10,Microsoft Azure,Cloud & Software,11472.52,Debit,System-Auto
+LGR-1012,2026-06-10,WeWork India,Rent & Facilities,30848.47,Debit,Priya
+LGR-1013,2026-06-10,WeWork India,Rent & Facilities,15391.23,Debit,Aditya
+LGR-1014,2026-06-12,Swiggy Genie,Logistics,8926.3,Debit,System-Auto
+LGR-1015,2026-06-12,Ola Fleet,Travel,11600.8,Debit,Aditya
+LGR-1016,2026-06-12,Zomato Corporate,Meals & Entertainment,3391.84,Debit,Aditya
+LGR-1017,2026-06-12,Swiggy Genie,Logistics,23945.72,Debit,Priya
+LGR-1018,2026-06-12,Swiggy Genie,Logistics,7979.25,Debit,Aditya
+LGR-1019,2026-06-12,Tata Power,Utilities,3110.3,Debit,Priya
+LGR-1020,2026-06-13,Airtel Business,Utilities,10345.04,Debit,Priya
+LGR-1021,2026-06-13,Ola Fleet,Travel,8723.54,Debit,System-Auto
+LGR-1022,2026-06-13,Reliance Office Supplies,Office Supplies,17153.57,Debit,System-Auto
+LGR-1023,2026-06-13,Swiggy Genie,Logistics,25598.94,Debit,System-Auto
+LGR-1024,2026-06-14,Google Ads,Marketing,28849.03,Debit,System-Auto
+LGR-1025,2026-06-16,Adobe Creative Cloud,Cloud & Software,13760.1,Debit,Priya
+LGR-1026,2026-06-16,Airtel Business,Utilities,9994.0,Debit,Aditya
+LGR-1027,2026-06-16,Reliance Office Supplies,Office Supplies,9151.16,Debit,Priya
+LGR-1028,2026-06-17,Google Ads,Marketing,530.1,Debit,Priya
+LGR-1029,2026-06-17,Ola Fleet,Travel,15467.7,Debit,Aditya
+LGR-1030,2026-06-18,Amazon Web Services,Cloud & Software,16616.59,Debit,Priya
+LGR-1031,2026-06-19,Google Ads,Marketing,10717.54,Debit,Priya
+LGR-1032,2026-06-19,IndiGo Airlines,Travel,5537.49,Debit,System-Auto
+LGR-1033,2026-06-19,Airtel Business,Utilities,29359.79,Debit,System-Auto
+LGR-1034,2026-06-21,LinkedIn Talent,HR & Recruiting,11969.33,Debit,Priya
+LGR-1035,2026-06-23,Google Ads,Marketing,2513.62,Debit,Aditya
+LGR-1036,2026-06-23,Godrej Interio,Office Supplies,13065.14,Debit,Aditya
+LGR-1037,2026-06-23,Amazon Web Services,Cloud & Software,8682.69,Debit,System-Auto
+LGR-1038,2026-06-23,WeWork India,Rent & Facilities,16889.87,Debit,System-Auto
+LGR-1039,2026-06-24,WeWork India,Rent & Facilities,9975.29,Debit,Aditya
+LGR-1040,2026-06-24,Uber for Business,Travel,15408.3,Debit,Priya
+LGR-1041,2026-06-24,IndiGo Airlines,Travel,12067.91,Debit,Aditya
+LGR-1042,2026-06-24,Google Ads,Marketing,6468.17,Debit,Aditya
+LGR-1043,2026-06-25,Google Ads,Marketing,20375.91,Debit,Aditya
+LGR-1044,2026-06-26,Uber for Business,Travel,29379.75,Debit,Aditya
+LGR-1045,2026-06-28,Adobe Creative Cloud,Cloud & Software,29173.98,Debit,System-Auto
+LGR-1046,2026-06-29,Adobe Creative Cloud,Cloud & Software,8257.67,Debit,Priya
+LGR-1047,2026-06-29,Uber for Business,Travel,22316.78,Debit,Aditya
+LGR-1048,2026-06-30,Adobe Creative Cloud,Cloud & Software,34475.4,Debit,System-Auto
+LGR-1049,2026-07-02,Tata Power,Utilities,21662.39,Debit,System-Auto
+LGR-1050,2026-07-03,Google Ads,Marketing,18858.7,Debit,System-Auto
+LGR-1051,2026-07-03,Microsoft Azure,Cloud & Software,4191.22,Debit,Aditya
+LGR-1052,2026-07-03,Zomato Corporate,Meals & Entertainment,18520.68,Debit,Aditya
+LGR-1053,2026-07-03,Godrej Interio,Office Supplies,10759.48,Debit,Aditya
+LGR-1054,2026-07-04,Tata Power,Utilities,9232.94,Debit,Aditya
+LGR-1055,2026-07-04,Ola Fleet,Travel,17772.47,Debit,Aditya
+LGR-1056,2026-07-05,Tata Power,Utilities,28723.04,Debit,Priya
+LGR-1057,2026-07-05,Microsoft Azure,Cloud & Software,51536.72,Debit,Aditya
+LGR-1058,2026-07-05,Ola Fleet,Travel,3311.64,Debit,Aditya
+LGR-1059,2026-07-06,Godrej Interio,Office Supplies,26077.26,Debit,Aditya
+LGR-1060,2026-07-06,Microsoft Azure,Cloud & Software,18486.47,Debit,Aditya
+LGR-1061,2026-07-06,Reliance Office Supplies,Office Supplies,26468.82,Debit,Aditya
+LGR-1062,2026-07-07,Zomato Corporate,Meals & Entertainment,14255.92,Debit,Priya
+LGR-1063,2026-07-09,Godrej Interio,Office Supplies,21321.93,Debit,Aditya
+LGR-1064,2026-07-09,Google Ads,Marketing,13753.14,Debit,Aditya
+LGR-1065,2026-07-09,Adobe Creative Cloud,Cloud & Software,4217.59,Debit,Priya
+LGR-1066,2026-07-10,Reliance Office Supplies,Office Supplies,19894.93,Debit,Priya
+LGR-1067,2026-07-10,IndiGo Airlines,Travel,5477.48,Debit,Aditya
+LGR-1068,2026-07-12,Godrej Interio,Office Supplies,20336.24,Debit,Aditya
+LGR-1069,2026-07-12,IndiGo Airlines,Travel,27242.83,Debit,Aditya
+LGR-1070,2026-07-13,Ola Fleet,Travel,5944.06,Debit,System-Auto
+LGR-1071,2026-07-13,Reliance Office Supplies,Office Supplies,13475.33,Debit,Priya
+LGR-1072,2026-07-14,Zomato Corporate,Meals & Entertainment,21728.91,Debit,Priya
+LGR-1073,2026-07-16,Google Ads,Marketing,10127.52,Debit,System-Auto
+LGR-1074,2026-07-16,Uber for Business,Travel,56219.77,Debit,Aditya
+LGR-1075,2026-07-19,Google Ads,Marketing,12985.23,Debit,System-Auto
+LGR-1076,2026-07-19,Microsoft Azure,Cloud & Software,5433.09,Debit,Priya
+LGR-1077,2026-07-20,Google Ads,Marketing,23044.69,Debit,Aditya
+LGR-1078,2026-07-20,LinkedIn Talent,HR & Recruiting,11064.0,Debit,Priya
+LGR-1079,2026-07-21,Swiggy Genie,Logistics,19967.13,Debit,System-Auto
+LGR-1080,2026-07-22,Uber for Business,Travel,8542.4,Debit,Priya
+LGR-1081,2026-07-22,Tata Power,Utilities,20424.99,Debit,System-Auto
+LGR-1082,2026-07-22,Adobe Creative Cloud,Cloud & Software,5627.52,Debit,Aditya
+LGR-1083,2026-07-23,Amazon Web Services,Cloud & Software,8124.19,Debit,System-Auto
+LGR-1084,2026-07-23,Zomato Corporate,Meals & Entertainment,18633.06,Debit,Aditya
+LGR-1085,2026-07-25,Reliance Office Supplies,Office Supplies,35488.77,Debit,System-Auto
+LGR-1086,2026-07-27,Swiggy Genie,Logistics,24154.97,Debit,Priya
+LGR-1087,2026-07-28,Zomato Corporate,Meals & Entertainment,12595.19,Debit,Aditya
+LGR-1088,2026-07-28,Reliance Office Supplies,Office Supplies,5453.94,Debit,Aditya
+LGR-1089,2026-07-28,Adobe Creative Cloud,Cloud & Software,29009.78,Debit,Aditya
+LGR-1090,2026-07-28,Airtel Business,Utilities,15042.85,Debit,Aditya
+LGR-1091,2026-07-29,Airtel Business,Utilities,14563.85,Debit,Aditya
+LGR-1092,2026-07-31,IndiGo Airlines,Travel,29897.62,Debit,Priya
+LGR-1093,2026-07-31,Zomato Corporate,Meals & Entertainment,12198.33,Debit,Priya
+LGR-1094,2026-08-01,Airtel Business,Utilities,14315.41,Debit,System-Auto
+LGR-1095,2026-08-01,LinkedIn Talent,HR & Recruiting,13766.16,Debit,System-Auto
+LGR-1096,2026-08-03,Uber for Business,Travel,13658.65,Debit,Priya
+LGR-1097,2026-08-04,Reliance Office Supplies,Office Supplies,6008.93,Debit,System-Auto
+LGR-1098,2026-08-06,IndiGo Airlines,Travel,2172.76,Debit,System-Auto
+LGR-1099,2026-08-07,Google Ads,Marketing,15591.09,Debit,Aditya
+LGR-1100,2026-08-08,Reliance Office Supplies,Office Supplies,5804.55,Debit,Aditya
+LGR-1101,2026-08-08,IndiGo Airlines,Travel,9396.2,Debit,Aditya
+LGR-1102,2026-08-08,Adobe Creative Cloud,Cloud & Software,17697.61,Debit,Aditya
+LGR-1103,2026-08-10,Zomato Corporate,Meals & Entertainment,3984.85,Debit,Aditya
+LGR-1104,2026-08-12,Adobe Creative Cloud,Cloud & Software,48118.47,Debit,Aditya
+LGR-1105,2026-08-13,Uber for Business,Travel,36970.62,Debit,System-Auto
+LGR-1106,2026-08-13,Uber for Business,Travel,12268.31,Debit,System-Auto
+LGR-1107,2026-08-13,Swiggy Genie,Logistics,16497.91,Debit,Aditya
+LGR-1108,2026-08-14,Adobe Creative Cloud,Cloud & Software,8598.49,Debit,Aditya
+LGR-1109,2026-08-14,Microsoft Azure,Cloud & Software,2527.24,Debit,Aditya
+LGR-1110,2026-08-15,Google Ads,Marketing,6488.73,Debit,Priya
+LGR-1111,2026-08-15,Godrej Interio,Office Supplies,33674.58,Debit,Priya
+LGR-1112,2026-08-17,Adobe Creative Cloud,Cloud & Software,15179.76,Debit,System-Auto
+LGR-1113,2026-08-19,Swiggy Genie,Logistics,2709.0,Debit,Aditya
+LGR-1114,2026-08-20,Ola Fleet,Travel,15801.88,Debit,System-Auto
+LGR-1115,2026-08-21,LinkedIn Talent,HR & Recruiting,33500.36,Debit,System-Auto
+LGR-1116,2026-08-22,Reliance Office Supplies,Office Supplies,6732.05,Debit,Aditya
+LGR-1117,2026-08-23,Uber for Business,Travel,3946.73,Debit,System-Auto
+LGR-1118,2026-08-23,Ola Fleet,Travel,10144.87,Debit,Priya
+LGR-1119,2026-08-24,Swiggy Genie,Logistics,37506.86,Debit,Priya
